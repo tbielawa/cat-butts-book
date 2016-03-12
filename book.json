@@ -1,0 +1,10 @@
+{
+	"gitbook": "2.x.x",
+	"title": "Cat Butts",
+	"description": "A joke book about a serious topic",
+	"language": "en",
+	"structure": {
+		"readme": "intro.md",
+		"summary": "summary.md"
+	}
+}
