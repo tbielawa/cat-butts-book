@@ -4,6 +4,7 @@
 	"description": "A joke book about a serious topic",
 	"language": "en",
 	"structure": {
-		"readme": "Intro.md"
+		"readme": "intro.md",
+		"summary": "summary.md"
 	}
 }
